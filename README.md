@@ -35,6 +35,7 @@ You need:
 You can install them using:
 ```bash
 pip install torch torchvision pillow
+```
 
 ## NOTE
 I have included a file called run_training.py which upon running will run all the files in my model.
